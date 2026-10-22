@@ -13,3 +13,8 @@ I study snow and ice entrainment in dunes in the terrestrial planets in our sola
 
 ## Contact
 troscoe@uwyo.edu
+
+
+## Additional Information
+[Download my CV](CVtylerRoscoe.pdf)
+[UW Geology and Geophysics](hhtps://www.uwyo.edu/geolgeophys)
