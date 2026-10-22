@@ -1,0 +1,15 @@
+---
+layout:default
+---
+# Tyler Roscoe
+
+MS Student, Geology, University of Wyoming Department of Geology & Geophysics
+
+Advisor: Dr. Robert Mahon
+
+## Research
+
+I study snow and ice entrainment in dunes in the terrestrial planets in our solar system
+
+## Contact
+troscoe@uwyo.edu
