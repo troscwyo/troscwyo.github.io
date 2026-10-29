@@ -16,7 +16,7 @@ troscoe@uwyo.edu
 
 
 ## Additional Information
-[Download my CV](CVtylerRoscoe.pdf)
+[Download my CV](RoscoeCV.pdf)
 [UW Geology and Geophysics](hhtps://www.uwyo.edu/geolgeophys)
 
 ##Field Work
