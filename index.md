@@ -20,4 +20,4 @@ troscoe@uwyo.edu
 [UW Geology and Geophysics](hhtps://www.uwyo.edu/geolgeophys)
 
 ##Field Work
-![Me in the field](images/TylerYellowstoneFieldCamp.jpg)
+![Me in the field](images/TylerinYellowstoneFieldCamp.jpg)
