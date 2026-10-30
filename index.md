@@ -9,7 +9,7 @@ Advisor: Dr. Robert Mahon
 
 ## Research
 
-I study snow and ice entrainment in dunes in the terrestrial planets in our solar system
+I study terrestrial and icy worlds in our solar system-- their surface processes, resources, and habitability. 
 
 ## Contact
 troscoe@uwyo.edu
