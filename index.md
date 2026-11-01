@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% include nav.html %}
 <style>
   .portfolio {
     max-width: 1050px;
@@ -190,7 +191,7 @@ layout: default
     </div>
   </section>
 
-  <section class="portfolio-section">
+ <section class="portfolio-section" id="field-work">
     <h2>Field Work</h2>
 
     <p>
@@ -210,7 +211,7 @@ layout: default
     </p>
   </section>
 
-  <section class="portfolio-section">
+  <section class="portfolio-section" id="cv">
     <h2>Curriculum Vitae & Resources</h2>
 
     <p>
@@ -230,9 +231,9 @@ layout: default
     </a>
   </section>
 
-  <section class="portfolio-section">
+  <section class="portfolio-section" id="contact">
     <h2>Get in Touch</h2>
-
+    
     <div class="profile-card">
       <p>
         Interested in my research or want to connect?
