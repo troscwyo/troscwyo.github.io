@@ -1,44 +1,83 @@
 
+
 ---
 layout: default
-title: Research
+title: Research | Tyler Roscoe
 ---
 
 {% include nav.html %}
 
-# Research
+<div class="portfolio">
 
-## Exploring Terrestrial and Icy Worlds
+  <section class="hero">
+    <div class="eyebrow">Planetary Science · Geology</div>
 
-My academic interests focus on terrestrial and icy worlds throughout our solar system. I am interested in understanding the geological processes that shape planetary surfaces, influence resource availability, and contribute to planetary habitability.
+    <h1>Research</h1>
 
-## Research Interests
+    <p>
+      Exploring terrestrial and icy worlds throughout our
+      solar system through the study of planetary geology,
+      surface processes, resources, and habitability.
+    </p>
+  </section>
 
-### Planetary Geology
-Understanding the geological evolution of planetary bodies and the processes responsible for shaping their surfaces.
+  <section class="portfolio-section">
+    <h2>Research Overview</h2>
 
-### Icy Worlds
-Exploring icy environments throughout the solar system and their geological significance.
+    <p>
+      My academic interests focus on understanding the
+      geological processes that shape planetary surfaces
+      and influence the evolution of terrestrial and icy
+      bodies throughout our solar system.
+    </p>
 
-### Surface Processes
-Investigating the processes that modify planetary landscapes and surface materials.
+    <p>
+      I am particularly interested in how geological
+      environments can help us understand planetary
+      resources and the potential habitability of other
+      worlds.
+    </p>
+  </section>
 
-### Planetary Resources
-Understanding the distribution and availability of resources on planetary bodies.
+  <section class="portfolio-section">
+    <h2>Research Interests</h2>
 
-### Habitability
-Exploring geological environments and conditions relevant to planetary habitability.
+    <div class="interests">
+      <div class="interest">Planetary Geology</div>
+      <div class="interest">Icy Worlds</div>
+      <div class="interest">Surface Processes</div>
+      <div class="interest">Planetary Resources</div>
+      <div class="interest">Habitability</div>
+    </div>
+  </section>
 
-## Academic Affiliation
+  <section class="portfolio-section">
+    <h2>Academic Affiliation</h2>
 
-**University of Wyoming**
+    <div class="profile-card">
+      <strong>University of Wyoming</strong>
+      <br>
+      Department of Geology & Geophysics
+      <br>
+      Master's Student in Geology
+      <br><br>
+      <strong>Research Advisor:</strong>
+      Dr. Robert Mahon
+    </div>
+  </section>
 
-Department of Geology & Geophysics
+  <section class="portfolio-section">
+    <h2>Contact</h2>
 
-**Research Advisor:** Dr. Robert Mahon
+    <p>
+      Interested in learning more about my academic
+      interests? Feel free to reach out.
+    </p>
 
-## Contact
+    <a href="mailto:troscoe@uwyo.edu">
+      troscoe@uwyo.edu
+    </a>
+  </section>
 
-For questions about my academic interests or research:
+</div>
 
-[troscoe@uwyo.edu](mailto:troscoe@uwyo.edu)
