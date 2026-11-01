@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 <style>
   .portfolio {
     max-width: 1050px;
