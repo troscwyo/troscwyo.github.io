@@ -2,6 +2,7 @@
 layout: default
 ---
 {% include nav.html %}
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 <style>
   .portfolio {
     max-width: 1050px;
