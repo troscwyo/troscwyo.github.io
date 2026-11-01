@@ -6,7 +6,7 @@ title: Research | Tyler Roscoe
 ---
 
 {% include nav.html %}
-
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 <div class="portfolio">
 
   <section class="hero">
