@@ -1,0 +1,65 @@
+
+<style>
+  .site-nav {
+    background: #172b3a;
+    padding: 16px 22px;
+    border-radius: 9px;
+    margin: 20px 0 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+
+  .site-nav .nav-brand {
+    color: white;
+    font-weight: 700;
+    font-size: 17px;
+    text-decoration: none;
+    letter-spacing: 1px;
+  }
+
+  .site-nav .nav-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 18px;
+  }
+
+  .site-nav .nav-links a {
+    color: #d5e0e7;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 600;
+    transition: color 0.2s ease;
+  }
+
+  .site-nav .nav-links a:hover {
+    color: white;
+    text-decoration: underline;
+  }
+
+  @media (max-width: 600px) {
+    .site-nav {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .site-nav .nav-links {
+      gap: 12px;
+    }
+  }
+</style>
+
+<nav class="site-nav" aria-label="Main navigation">
+  <a class="nav-brand" href="/">TYLER ROSCOE</a>
+
+  <div class="nav-links">
+    <a href="/">Home</a>
+    <a href="/#research">Research</a>
+    <a href="/#publications">Publications</a>
+    <a href="/#field-work">Field Work</a>
+    <a href="/#cv">CV</a>
+    <a href="/#contact">Contact</a>
+  </div>
+</nav>
