@@ -157,8 +157,6 @@ layout: default
 
     <h1>Tyler Roscoe</h1>
 
-    </p>
-
     <p>
       Exploring terrestrial and icy worlds through the study of
       planetary surface processes, resources, and habitability.
