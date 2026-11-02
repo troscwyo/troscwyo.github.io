@@ -12,20 +12,10 @@ title: Research | Tyler Roscoe
 
 
   <section class="portfolio-section">
-    <h2>Research Overview</h2>
+    <h2> Current Research Overview</h2>
 
     <p>
-      My academic interests focus on understanding the
-      geological processes that shape planetary surfaces
-      and influence the evolution of terrestrial and icy
-      bodies throughout our solar system.
-    </p>
-
-    <p>
-      I am particularly interested in how geological
-      environments can help us understand planetary
-      resources and the potential habitability of other
-      worlds.
+      My work for my Master's Thesis is attempting the tackle problem of understanding contemporary Martian aeolian hydrodynamics with seasonal and perennial ice and snow (water and carbon dioxide). To do this we are studying an Earth analog system in the Killpecker Dune Field in western Wyoming. I will be studying snow and ice entrainment in this field to propose analogy to potentially the polar regions of Mars. On Earth I will employ near surface geophysics, LiDAR, and geochemical isotope techniques. I will then be comparing this Martian remote sensing data to the best of my ability. You can check out my field work page to see the site, and more details on my methods.
     </p>
   </section>
   <section class="portfolio-section">
