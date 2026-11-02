@@ -28,18 +28,14 @@ title: Research | Tyler Roscoe
       worlds.
     </p>
   </section>
-
   <section class="portfolio-section">
-    <h2>Research Interests</h2>
+    <h2>Previous Work</h2>
 
-    <div class="interests">
-      <div class="interest">Planetary Geology</div>
-      <div class="interest">Icy Worlds</div>
-      <div class="interest">Surface Processes</div>
-      <div class="interest">Planetary Resources</div>
-      <div class="interest">Habitability</div>
-    </div>
+    <p>
+      When I was an undergraduate student at the University of Wisconsin-Oshkosh. I studied the biogeochemical glaciomarine banded iron formations preserved in Brazil as an analog to build a model for potential habitability for chemosynthetic lifeforms on Saturn's moon Enceladus. We (myself, and my previous advisor Eric Hiatt) titled the project "Snowball Earth as an Analog for Enceladus". For this project we received funding from the NASA Wisconsin Space Grant Consortium. 
+    </p>
   </section>
+  
 
   <section class="portfolio-section">
     <h2>Academic Affiliation</h2>
