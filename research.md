@@ -25,7 +25,7 @@
     >
 
     <p class="photo-caption">
-      Me presenting research at a Conference.
+      Me presenting "Snowball Earth as an Analog for Enceladus" at a Conference.
     </p>
   </section>
   
