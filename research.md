@@ -51,7 +51,6 @@ title: Research | Tyler Roscoe
       <br>
       <Strong> Rob's Website </strong>
       https://www.bedform.org/ 
-      </p>
       
     </div>
   </section>
