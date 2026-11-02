@@ -49,7 +49,7 @@ title: Field Work | Tyler Roscoe
     >
 
     <p class="photo-caption">
-      Field site in Wyoming at the Killpecker Dune Field.
+      Killpecker Dune Field, Wyoming.
     </p>
   </section>
 
