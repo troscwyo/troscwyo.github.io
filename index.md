@@ -243,8 +243,4 @@ layout: default
     </div>
   </section>
 
-  <footer class="portfolio-footer">
-    Tyler Roscoe · University of Wyoming
-  </footer>
-
 </div>
