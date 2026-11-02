@@ -183,7 +183,7 @@ layout: default
       <div class="interest">Surface Processes</div>
       <div class="interest">Applied Geophysics</div>
       <div class="interest">Applied Geochemistry</div>
-      <div class="interest">Habitability</div>
+      <div class="interest">Resources & Habitability</div>
     </div>
   </section>
 
