@@ -30,7 +30,7 @@ title: Field Work | Tyler Roscoe
       Keweenaw Peninsula, UP (Michigan)
       Door County, Wisconsin
       Key Largo, Florida
-      Snake Range, Nevada
+      Snake Range, Nevada.
      But I have worked in many more places, and if you asked me to pick my favorite place to work in, it would be most of the places I have been in Wyoming. 
     </p>
   </section>
@@ -39,7 +39,7 @@ title: Field Work | Tyler Roscoe
     <h2>Current Field Site: Killpecker Dunes, Wyoming</h2>
 
     <p>
-      For my current research for my Master's thesis, I study the Killpecker Dune field in western Wyoming. You can find more details on the goals of this project on my research page. At this site  I will employ a variety of geophysical techniques, which will include: ground penetrating radar (GPR), electrical resistivity tomography (ERT), and electromagnetic induction (EMI). In addition I also plan to take sediment and ice cores, as well as build a deep dataset of LiDAR point clouds. 
+      For my current research for my Master's thesis, I study the Killpecker Dune field in western Wyoming. You can find more details on the goals of this project on my research page. At this site  I will employ a variety of geophysical techniques, which will include: ground penetrating radar (GPR), electrical resistivity tomography (ERT), and electromagnetic induction (EMI). In addition I also plan to take sediment and ice cores, as well as do extensive LiDAR mapping. 
   
     </p>
 
