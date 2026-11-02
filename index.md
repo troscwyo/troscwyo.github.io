@@ -187,22 +187,21 @@ layout: default
 
 
  <section class="portfolio-section" id="field-work">
-    <h2>Field Work</h2>
+    <h2>My View on Studying Planets</h2>
 
     <p>
-      Field experiences are an important part of understanding
-      Earth's geological processes and connecting observations
-      in the field with broader planetary science questions.
+      I think field experiences are an important part of understanding
+      broader planetary science questions. Before one can think of other worlds, they should start with their own. 
     </p>
 
     <img
       class="field-photo"
       src="images/TylerinYellowstoneFieldCamp.jpg"
-      alt="Tyler Roscoe during fieldwork at Yellowstone"
+      alt="Tyler Roscoe at Yellowstone"
     >
 
     <p class="photo-caption">
-      Fieldwork at Yellowstone National Park.
+      At Yellowstone National Park (Field Course).
     </p>
   </section>
 
