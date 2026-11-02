@@ -149,7 +149,7 @@ layout: default
       Dr. Robert Mahon
       <br>
       <Strong> Rob's Website </strong>
-      https://www.bedform.org/ 
+      <a href="https://www.bedform.org/">Bedform.org</a>
       
     </div>
   </section>
