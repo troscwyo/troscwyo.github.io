@@ -23,10 +23,14 @@ title: Field Work | Tyler Roscoe
     <h2>Field Experience</h2>
 
     <p>
-      Fieldwork provides an opportunity to observe
-      geological processes directly and connect
-      field observations with broader geological
-      questions.
+      I have done field work in a variety of places across North America from the Midwest, to the Mountain West, to the deep south, but here are some my favorites:
+      Wasatch Range, Utah
+      Bermuda, (Overseas Territory of the United Kingdom)
+      Keweenaw Peninsula, UP (Michigan)
+      Door County, Wisconsin
+      Key Largo, Florida
+      Snake Range, Nevada
+     But I have worked in many more places, and if you asked me to pick my favorite place to work in, it would be most of the places I have been in Wyoming. 
     </p>
   </section>
 
@@ -53,9 +57,8 @@ title: Field Work | Tyler Roscoe
     <h2>Future Field Experiences</h2>
 
     <p>
-      Additional field experiences, geological
-      observations, and photographs will be added
-      as my academic and research experience develops.
+      I am very active with many colleagues field work around the Rocky Mountains. If you are interested in working in the field with me, feel free to check my contact page!
+      In the near future I will be making many more field site visits at the Killpecker field as I collect data for my research. The Wyoming section of the Medicine Bow Mts (locally called the Snowies) are of interested to our research group, and we may plan to visit. 
     </p>
   </section>
 
