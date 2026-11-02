@@ -134,6 +134,22 @@ layout: default
   }
 </style>
 
+  <section class="portfolio-section">
+    <h2>Academic Background</h2>
+
+    <div class="profile-card">
+      <strong>Master of Science Student in Geology</strong>
+      <br>
+      University of Wyoming
+      <br>
+      Department of Geology & Geophysics
+      <br>
+      <br>
+      <strong>Research Advisor:</strong>
+      Dr. Robert Mahon
+    </div>
+  </section>
+
 <div class="portfolio">
 
   <section class="hero">
@@ -141,10 +157,6 @@ layout: default
 
     <h1>Tyler Roscoe</h1>
 
-    <p class="subtitle">
-      MS Student · Department of Geology & Geophysics
-      <br>
-      University of Wyoming
     </p>
 
     <p>
@@ -161,8 +173,7 @@ layout: default
     <h2>About Me</h2>
 
     <p>
-      I am a Master's student in Geology at the University of Wyoming,
-      working with Dr. Robert Mahon. I am a geologist at my core, but I aim to be a multidisciplinary planetary scientist. As undergraduate in addition to geology I studied both physics, and astronomy. With my research I bring in a broad mindset. You can check out my CV for a list of my multidisciplinary experiences. At the moment most of the questions I am trying to answer involve the planet Mars. 
+    I am a geologist at my core, but I aim to be a multidisciplinary planetary scientist. As undergraduate in addition to geology I studied both physics, and astronomy. With my research I bring in a broad mindset. You can check out my CV for a list of my multidisciplinary experiences. At the moment most of the questions I am trying to answer involve the planet Mars. 
     </p>
 
     <div class="interests">
@@ -175,21 +186,7 @@ layout: default
     </div>
   </section>
 
-  <section class="portfolio-section">
-    <h2>Academic Background</h2>
 
-    <div class="profile-card">
-      <strong>Master of Science Student in Geology</strong>
-      <br>
-      University of Wyoming
-      <br>
-      Department of Geology & Geophysics
-      <br>
-      <br>
-      <strong>Research Advisor:</strong>
-      Dr. Robert Mahon
-    </div>
-  </section>
 
  <section class="portfolio-section" id="field-work">
     <h2>Field Work</h2>
