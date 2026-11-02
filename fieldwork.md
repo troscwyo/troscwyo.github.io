@@ -11,7 +11,7 @@
     <h1>Field Work</h1>
 
     <p>
-      As a planetary geologist, the best way to understand other worlds is to have a good understanding of the planet I live on. With that, field work is a core part of my learning. Much of my work encompasses Earth analog studies, where I examine parts of the Earth an analogy to study other worlds. 
+      Much of my work encompasses Earth analog studies, where I examine parts of the Earth an analogy to study other worlds, so field work is a core part of my learning. 
     </p>
   </section>
 
@@ -20,11 +20,11 @@
 
     <p>
       I have done field work in a variety of places across North America from the Midwest, to the Mountain West, to the deep south, but here are some my favorites:
-      Wasatch Range, Utah
-      Bermuda, (Overseas Territory of the United Kingdom)
-      Keweenaw Peninsula, UP (Michigan)
-      Door County, Wisconsin
-      Key Largo, Florida
+      Wasatch Range, Utah,
+      Bermuda, (Overseas Territory of the United Kingdom),
+      Keweenaw Peninsula, UP (Michigan),
+      Door County, Wisconsin,
+      Key Largo, Florida,
       Snake Range, Nevada.
      But I have worked in many more places, and if you asked me to pick my favorite place to work in, it would be most of the places I have been in Wyoming. 
     </p>
