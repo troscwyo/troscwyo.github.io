@@ -9,17 +9,6 @@ title: Research | Tyler Roscoe
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 <div class="portfolio">
 
-  <section class="hero">
-    <div class="eyebrow">Planetary Science · Geology</div>
-
-    <h1>Research</h1>
-
-    <p>
-      Exploring terrestrial and icy worlds throughout our
-      solar system through the study of planetary geology,
-      surface processes, resources, and habitability.
-    </p>
-  </section>
 
   <section class="portfolio-section">
     <h2>Research Overview</h2>
@@ -63,21 +52,11 @@ title: Research | Tyler Roscoe
       <br><br>
       <strong>Research Advisor:</strong>
       Dr. Robert Mahon
+      <Strong> Rob's Website <strong>
+      https://www.bedform.org/ 
     </div>
   </section>
 
-  <section class="portfolio-section">
-    <h2>Contact</h2>
-
-    <p>
-      Interested in learning more about my academic
-      interests? Feel free to reach out.
-    </p>
-
-    <a href="mailto:troscoe@uwyo.edu">
-      troscoe@uwyo.edu
-    </a>
-  </section>
 
 </div>
 
