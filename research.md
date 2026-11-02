@@ -52,11 +52,11 @@ title: Research | Tyler Roscoe
       <br><br>
       <strong>Research Advisor:</strong>
       Dr. Robert Mahon
+      <br>
       <Strong> Rob's Website <strong>
       https://www.bedform.org/ 
+      
     </div>
   </section>
 
-
-</div>
 
