@@ -241,9 +241,8 @@ layout: default
         troscoe@uwyo.edu
       </a>
       <p>
-      <strong> LinkedIn </strong>
       <br>
-      https://www.linkedin.com/in/tyler-roscoe/
+      <a href="https://www.linkedin.com/in/tyler-roscoe/">LinkedIn</a>   
       </p>
     </div>
   </section>
