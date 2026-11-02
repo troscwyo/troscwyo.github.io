@@ -58,7 +58,7 @@ title: Field Work | Tyler Roscoe
 
     <p>
       I am very active with many colleagues field work around the Rocky Mountains. If you are interested in working in the field with me, feel free to check my contact page!
-      In the near future I will be making many more field site visits at the Killpecker field as I collect data for my research. The Wyoming section of the Medicine Bow Mts (locally called the Snowies) are of interested to our research group, and we may plan to visit. 
+      In the near future I will be making many more field site visits at the Killpecker field as I collect data for my research. Our research group may also plan to visit the Wyoming section of the Medicine Bow Mountains (locally called the Snowies). 
     </p>
   </section>
 
