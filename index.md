@@ -240,6 +240,11 @@ layout: default
       <a href="mailto:troscoe@uwyo.edu">
         troscoe@uwyo.edu
       </a>
+      <p>
+      <strong> LinkedIn </strong>
+      <br>
+      https://www.linkedin.com/in/tyler-roscoe/
+      </p>
     </div>
   </section>
 
