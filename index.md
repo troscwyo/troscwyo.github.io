@@ -177,6 +177,16 @@ layout: default
     I am a geologist at my core, but I aim to be a multidisciplinary planetary scientist. As undergraduate in addition to geology I studied both physics, and astronomy. With my research I bring in a broad mindset. You can check out my CV for a list of my multidisciplinary experiences. At the moment most of the questions I am trying to answer involve the planet Mars. 
     </p>
 
+    <img
+      class="field-photo"
+      src="images/TylerinYellowstoneFieldCamp.jpg"
+      alt="Tyler Roscoe at Yellowstone"
+    >
+
+    <p class="photo-caption">
+      At Yellowstone National Park (Field Course).
+    </p>
+
     <div class="interests">
       <div class="interest">Terrestrial Worlds: Venus, Earth, Mars, Titan</div>
       <div class="interest">Icy Worlds and Polar Regions</div>
@@ -192,20 +202,7 @@ layout: default
  <section class="portfolio-section" id="field-work">
     <h2>My View on Studying Planets</h2>
 
-    <p>
-      I think field experiences are an important part of understanding
-      broader planetary science questions. Before one can think of other worlds, they should start with their own. 
-    </p>
-
-    <img
-      class="field-photo"
-      src="images/TylerinYellowstoneFieldCamp.jpg"
-      alt="Tyler Roscoe at Yellowstone"
-    >
-
-    <p class="photo-caption">
-      At Yellowstone National Park (Field Course).
-    </p>
+    
   </section>
 
   <section class="portfolio-section" id="cv">
