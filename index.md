@@ -199,12 +199,6 @@ layout: default
 
 
 
- <section class="portfolio-section" id="field-work">
-    <h2>My View on Studying Planets</h2>
-
-    
-  </section>
-
   <section class="portfolio-section" id="cv">
     <h2>Curriculum Vitae & Resources</h2>
 
