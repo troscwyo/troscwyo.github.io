@@ -162,7 +162,7 @@ layout: default
     <h1>Tyler Roscoe</h1>
 
     <p>
-      Exploring terrestrial and icy worlds, their surface processes, resources, and habitability.
+      Using Earth systems to explore terrestrial and icy worlds, their surface processes, resources, and habitability.
        
     </p>
 
